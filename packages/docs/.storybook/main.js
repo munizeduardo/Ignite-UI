@@ -19,7 +19,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/Ignite-UI/'
+      config.base = '/munizeduardo-ignite-ui/'
     }
 
     return config
