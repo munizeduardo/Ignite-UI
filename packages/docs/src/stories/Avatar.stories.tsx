@@ -7,7 +7,7 @@ export default {
 
   args: {
     src: 'https://github.com/munizeduardo.png',
-    alt: 'Eduardo Muniz',
+    alt: 'Eduardo D. Muniz',
   },
   argTypes: {
     src: {
