@@ -1,0 +1,2 @@
+import{A as t}from"./index.263c06f7.js";import"./index.62266aed.js";import"./iframe.dd99981e.js";import"./index.d8cac927.js";import"./jsx-runtime.7d1546bc.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/munizeduardo.png",alt:"Eduardo D. Muniz"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0,alt:""}},e=["Primary","WithFallback"];export{c as Primary,m as WithFallback,e as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.4d3b6c66.js.map
